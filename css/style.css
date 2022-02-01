@@ -38,3 +38,21 @@ body{
 #authors img{
     margin-top: -80px;
 }
+
+@media(max-width: 767px){
+    #authores img {
+        margin-top: -110px;
+    }
+}
+
+@media(max-width: 767px){
+    #authores .card {
+        margin-bottom: 70px; 
+    }
+}
+
+@media(max-width: 767px) {
+    #contact img{
+        width: 200px;
+    }
+}
