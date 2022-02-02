@@ -58,5 +58,11 @@ body{
     .imgm-l{
         margin-top: -90px;
     }
+    #better{
+        margin-top: -15px;
+    }
+    #better .card{
+        margin-bottom: 15px;
+    }
 }
 
